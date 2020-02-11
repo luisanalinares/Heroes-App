@@ -1,0 +1,13 @@
+<h1>Resultados de la búsqueda:</h1>
+<hr>
+<div *ngIf="heroes.length==0" class="row">
+  <div class="col-md-12">
+    <div class="alert alert-info" role="alert">
+      <strong>No existen resultados con el término: {{ term }} </strong>
+    </div>
+  </div>
+</div>
+<div class="card-columns">
+  <app-hero-card (selectedHero)="seeHero($event)" [hero]="hero" *ngFor="let hero of heroes;">    
+  </app-hero-card>
+</div>

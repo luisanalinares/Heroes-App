@@ -1,0 +1,11 @@
+C:\Users\Lu\Documents\Portfolio\HeroesApp\HeroesBackend\HeroesBackend.Common\bin\Debug\netcoreapp2.2\HeroesBackend.Common.deps.json
+C:\Users\Lu\Documents\Portfolio\HeroesApp\HeroesBackend\HeroesBackend.Common\bin\Debug\netcoreapp2.2\HeroesBackend.Common.dll
+C:\Users\Lu\Documents\Portfolio\HeroesApp\HeroesBackend\HeroesBackend.Common\bin\Debug\netcoreapp2.2\HeroesBackend.Common.pdb
+C:\Users\Lu\Documents\Portfolio\HeroesApp\HeroesBackend\HeroesBackend.Common\bin\Debug\netcoreapp2.2\HeroesBackend.Entities.dll
+C:\Users\Lu\Documents\Portfolio\HeroesApp\HeroesBackend\HeroesBackend.Common\bin\Debug\netcoreapp2.2\HeroesBackend.Entities.pdb
+C:\Users\Lu\Documents\Portfolio\HeroesApp\HeroesBackend\HeroesBackend.Common\obj\Debug\netcoreapp2.2\HeroesBackend.Common.csprojAssemblyReference.cache
+C:\Users\Lu\Documents\Portfolio\HeroesApp\HeroesBackend\HeroesBackend.Common\obj\Debug\netcoreapp2.2\HeroesBackend.Common.AssemblyInfoInputs.cache
+C:\Users\Lu\Documents\Portfolio\HeroesApp\HeroesBackend\HeroesBackend.Common\obj\Debug\netcoreapp2.2\HeroesBackend.Common.AssemblyInfo.cs
+C:\Users\Lu\Documents\Portfolio\HeroesApp\HeroesBackend\HeroesBackend.Common\obj\Debug\netcoreapp2.2\HeroesBackend.Common.csproj.CopyComplete
+C:\Users\Lu\Documents\Portfolio\HeroesApp\HeroesBackend\HeroesBackend.Common\obj\Debug\netcoreapp2.2\HeroesBackend.Common.dll
+C:\Users\Lu\Documents\Portfolio\HeroesApp\HeroesBackend\HeroesBackend.Common\obj\Debug\netcoreapp2.2\HeroesBackend.Common.pdb

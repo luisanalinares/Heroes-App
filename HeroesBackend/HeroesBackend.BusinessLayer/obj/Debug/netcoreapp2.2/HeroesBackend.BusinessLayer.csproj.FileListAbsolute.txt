@@ -1,0 +1,30 @@
+C:\Users\Lu\Documents\Portfolio\HeroesApp\HeroesBackend\HeroesBackend.BusinessLayer\bin\Debug\netcoreapp2.2\HeroesBackend.BusinessLayer.deps.json
+C:\Users\Lu\Documents\Portfolio\HeroesApp\HeroesBackend\HeroesBackend.BusinessLayer\bin\Debug\netcoreapp2.2\HeroesBackend.BusinessLayer.dll
+C:\Users\Lu\Documents\Portfolio\HeroesApp\HeroesBackend\HeroesBackend.BusinessLayer\bin\Debug\netcoreapp2.2\HeroesBackend.BusinessLayer.pdb
+C:\Users\Lu\Documents\Portfolio\HeroesApp\HeroesBackend\HeroesBackend.BusinessLayer\bin\Debug\netcoreapp2.2\HeroesBackend.Common.dll
+C:\Users\Lu\Documents\Portfolio\HeroesApp\HeroesBackend\HeroesBackend.BusinessLayer\bin\Debug\netcoreapp2.2\HeroesBackend.Entities.dll
+C:\Users\Lu\Documents\Portfolio\HeroesApp\HeroesBackend\HeroesBackend.BusinessLayer\bin\Debug\netcoreapp2.2\HeroesBackend.Repository.dll
+C:\Users\Lu\Documents\Portfolio\HeroesApp\HeroesBackend\HeroesBackend.BusinessLayer\bin\Debug\netcoreapp2.2\HeroesBackend.Entities.pdb
+C:\Users\Lu\Documents\Portfolio\HeroesApp\HeroesBackend\HeroesBackend.BusinessLayer\bin\Debug\netcoreapp2.2\HeroesBackend.Repository.pdb
+C:\Users\Lu\Documents\Portfolio\HeroesApp\HeroesBackend\HeroesBackend.BusinessLayer\bin\Debug\netcoreapp2.2\HeroesBackend.Common.pdb
+C:\Users\Lu\Documents\Portfolio\HeroesApp\HeroesBackend\HeroesBackend.BusinessLayer\obj\Debug\netcoreapp2.2\HeroesBackend.BusinessLayer.csprojAssemblyReference.cache
+C:\Users\Lu\Documents\Portfolio\HeroesApp\HeroesBackend\HeroesBackend.BusinessLayer\obj\Debug\netcoreapp2.2\HeroesBackend.BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\Lu\Documents\Portfolio\HeroesApp\HeroesBackend\HeroesBackend.BusinessLayer\obj\Debug\netcoreapp2.2\HeroesBackend.BusinessLayer.AssemblyInfo.cs
+C:\Users\Lu\Documents\Portfolio\HeroesApp\HeroesBackend\HeroesBackend.BusinessLayer\obj\Debug\netcoreapp2.2\HeroesBackend.BusinessLayer.csproj.CopyComplete
+C:\Users\Lu\Documents\Portfolio\HeroesApp\HeroesBackend\HeroesBackend.BusinessLayer\obj\Debug\netcoreapp2.2\HeroesBackend.BusinessLayer.dll
+C:\Users\Lu\Documents\Portfolio\HeroesApp\HeroesBackend\HeroesBackend.BusinessLayer\obj\Debug\netcoreapp2.2\HeroesBackend.BusinessLayer.pdb
+C:\Users\Lu\Documents\Portafolio Git\HeroesApp\HeroesBackend\HeroesBackend.BusinessLayer\bin\Debug\netcoreapp2.2\HeroesBackend.BusinessLayer.deps.json
+C:\Users\Lu\Documents\Portafolio Git\HeroesApp\HeroesBackend\HeroesBackend.BusinessLayer\bin\Debug\netcoreapp2.2\HeroesBackend.BusinessLayer.dll
+C:\Users\Lu\Documents\Portafolio Git\HeroesApp\HeroesBackend\HeroesBackend.BusinessLayer\bin\Debug\netcoreapp2.2\HeroesBackend.BusinessLayer.pdb
+C:\Users\Lu\Documents\Portafolio Git\HeroesApp\HeroesBackend\HeroesBackend.BusinessLayer\bin\Debug\netcoreapp2.2\HeroesBackend.Common.dll
+C:\Users\Lu\Documents\Portafolio Git\HeroesApp\HeroesBackend\HeroesBackend.BusinessLayer\bin\Debug\netcoreapp2.2\HeroesBackend.Entities.dll
+C:\Users\Lu\Documents\Portafolio Git\HeroesApp\HeroesBackend\HeroesBackend.BusinessLayer\bin\Debug\netcoreapp2.2\HeroesBackend.Repository.dll
+C:\Users\Lu\Documents\Portafolio Git\HeroesApp\HeroesBackend\HeroesBackend.BusinessLayer\bin\Debug\netcoreapp2.2\HeroesBackend.Entities.pdb
+C:\Users\Lu\Documents\Portafolio Git\HeroesApp\HeroesBackend\HeroesBackend.BusinessLayer\bin\Debug\netcoreapp2.2\HeroesBackend.Repository.pdb
+C:\Users\Lu\Documents\Portafolio Git\HeroesApp\HeroesBackend\HeroesBackend.BusinessLayer\bin\Debug\netcoreapp2.2\HeroesBackend.Common.pdb
+C:\Users\Lu\Documents\Portafolio Git\HeroesApp\HeroesBackend\HeroesBackend.BusinessLayer\obj\Debug\netcoreapp2.2\HeroesBackend.BusinessLayer.csprojAssemblyReference.cache
+C:\Users\Lu\Documents\Portafolio Git\HeroesApp\HeroesBackend\HeroesBackend.BusinessLayer\obj\Debug\netcoreapp2.2\HeroesBackend.BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\Lu\Documents\Portafolio Git\HeroesApp\HeroesBackend\HeroesBackend.BusinessLayer\obj\Debug\netcoreapp2.2\HeroesBackend.BusinessLayer.AssemblyInfo.cs
+C:\Users\Lu\Documents\Portafolio Git\HeroesApp\HeroesBackend\HeroesBackend.BusinessLayer\obj\Debug\netcoreapp2.2\HeroesBackend.BusinessLayer.csproj.CopyComplete
+C:\Users\Lu\Documents\Portafolio Git\HeroesApp\HeroesBackend\HeroesBackend.BusinessLayer\obj\Debug\netcoreapp2.2\HeroesBackend.BusinessLayer.dll
+C:\Users\Lu\Documents\Portafolio Git\HeroesApp\HeroesBackend\HeroesBackend.BusinessLayer\obj\Debug\netcoreapp2.2\HeroesBackend.BusinessLayer.pdb

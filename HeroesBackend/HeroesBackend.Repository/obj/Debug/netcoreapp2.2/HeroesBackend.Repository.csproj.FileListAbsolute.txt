@@ -1,0 +1,26 @@
+C:\Users\Lu\Documents\Portfolio\HeroesApp\HeroesBackend\HeroesBackend.Repository\bin\Debug\netcoreapp2.2\HeroesBackend.Repository.deps.json
+C:\Users\Lu\Documents\Portfolio\HeroesApp\HeroesBackend\HeroesBackend.Repository\bin\Debug\netcoreapp2.2\HeroesBackend.Repository.dll
+C:\Users\Lu\Documents\Portfolio\HeroesApp\HeroesBackend\HeroesBackend.Repository\bin\Debug\netcoreapp2.2\HeroesBackend.Repository.pdb
+C:\Users\Lu\Documents\Portfolio\HeroesApp\HeroesBackend\HeroesBackend.Repository\bin\Debug\netcoreapp2.2\HeroesBackend.Common.dll
+C:\Users\Lu\Documents\Portfolio\HeroesApp\HeroesBackend\HeroesBackend.Repository\bin\Debug\netcoreapp2.2\HeroesBackend.Entities.dll
+C:\Users\Lu\Documents\Portfolio\HeroesApp\HeroesBackend\HeroesBackend.Repository\bin\Debug\netcoreapp2.2\HeroesBackend.Common.pdb
+C:\Users\Lu\Documents\Portfolio\HeroesApp\HeroesBackend\HeroesBackend.Repository\bin\Debug\netcoreapp2.2\HeroesBackend.Entities.pdb
+C:\Users\Lu\Documents\Portfolio\HeroesApp\HeroesBackend\HeroesBackend.Repository\obj\Debug\netcoreapp2.2\HeroesBackend.Repository.csprojAssemblyReference.cache
+C:\Users\Lu\Documents\Portfolio\HeroesApp\HeroesBackend\HeroesBackend.Repository\obj\Debug\netcoreapp2.2\HeroesBackend.Repository.AssemblyInfoInputs.cache
+C:\Users\Lu\Documents\Portfolio\HeroesApp\HeroesBackend\HeroesBackend.Repository\obj\Debug\netcoreapp2.2\HeroesBackend.Repository.AssemblyInfo.cs
+C:\Users\Lu\Documents\Portfolio\HeroesApp\HeroesBackend\HeroesBackend.Repository\obj\Debug\netcoreapp2.2\HeroesBackend.Repository.csproj.CopyComplete
+C:\Users\Lu\Documents\Portfolio\HeroesApp\HeroesBackend\HeroesBackend.Repository\obj\Debug\netcoreapp2.2\HeroesBackend.Repository.dll
+C:\Users\Lu\Documents\Portfolio\HeroesApp\HeroesBackend\HeroesBackend.Repository\obj\Debug\netcoreapp2.2\HeroesBackend.Repository.pdb
+C:\Users\Lu\Documents\Portafolio Git\HeroesApp\HeroesBackend\HeroesBackend.Repository\obj\Debug\netcoreapp2.2\HeroesBackend.Repository.csprojAssemblyReference.cache
+C:\Users\Lu\Documents\Portafolio Git\HeroesApp\HeroesBackend\HeroesBackend.Repository\obj\Debug\netcoreapp2.2\HeroesBackend.Repository.AssemblyInfoInputs.cache
+C:\Users\Lu\Documents\Portafolio Git\HeroesApp\HeroesBackend\HeroesBackend.Repository\obj\Debug\netcoreapp2.2\HeroesBackend.Repository.AssemblyInfo.cs
+C:\Users\Lu\Documents\Portafolio Git\HeroesApp\HeroesBackend\HeroesBackend.Repository\obj\Debug\netcoreapp2.2\HeroesBackend.Repository.dll
+C:\Users\Lu\Documents\Portafolio Git\HeroesApp\HeroesBackend\HeroesBackend.Repository\obj\Debug\netcoreapp2.2\HeroesBackend.Repository.pdb
+C:\Users\Lu\Documents\Portafolio Git\HeroesApp\HeroesBackend\HeroesBackend.Repository\bin\Debug\netcoreapp2.2\HeroesBackend.Repository.deps.json
+C:\Users\Lu\Documents\Portafolio Git\HeroesApp\HeroesBackend\HeroesBackend.Repository\bin\Debug\netcoreapp2.2\HeroesBackend.Repository.dll
+C:\Users\Lu\Documents\Portafolio Git\HeroesApp\HeroesBackend\HeroesBackend.Repository\bin\Debug\netcoreapp2.2\HeroesBackend.Repository.pdb
+C:\Users\Lu\Documents\Portafolio Git\HeroesApp\HeroesBackend\HeroesBackend.Repository\bin\Debug\netcoreapp2.2\HeroesBackend.Common.dll
+C:\Users\Lu\Documents\Portafolio Git\HeroesApp\HeroesBackend\HeroesBackend.Repository\bin\Debug\netcoreapp2.2\HeroesBackend.Entities.dll
+C:\Users\Lu\Documents\Portafolio Git\HeroesApp\HeroesBackend\HeroesBackend.Repository\bin\Debug\netcoreapp2.2\HeroesBackend.Common.pdb
+C:\Users\Lu\Documents\Portafolio Git\HeroesApp\HeroesBackend\HeroesBackend.Repository\bin\Debug\netcoreapp2.2\HeroesBackend.Entities.pdb
+C:\Users\Lu\Documents\Portafolio Git\HeroesApp\HeroesBackend\HeroesBackend.Repository\obj\Debug\netcoreapp2.2\HeroesBackend.Repository.csproj.CopyComplete

@@ -1,0 +1,9 @@
+<div class="card animated fadeIn fast" >
+  <img class="card-img-top" [src]="hero.image" [alt]="hero.name">
+  <div class="card-body">
+    <h5 class="card-title">{{ hero.name }}</h5>
+    <p class="card-text">{{ hero.bio }}</p>
+    <p class="card-text"><small class="text-muted">Última actualización hace 3 minutos</small></p>
+   <button type="button" (click)="seeHero()" class="btn btn-outline-primary btn-block">Ver más...</button>
+  </div>
+</div>

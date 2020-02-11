@@ -1,0 +1,8 @@
+C:\Users\Lu\Documents\Portfolio\HeroesApp\HeroesBackend\HeroesBackend.Entities\bin\Debug\netcoreapp2.2\HeroesBackend.Entities.deps.json
+C:\Users\Lu\Documents\Portfolio\HeroesApp\HeroesBackend\HeroesBackend.Entities\bin\Debug\netcoreapp2.2\HeroesBackend.Entities.dll
+C:\Users\Lu\Documents\Portfolio\HeroesApp\HeroesBackend\HeroesBackend.Entities\bin\Debug\netcoreapp2.2\HeroesBackend.Entities.pdb
+C:\Users\Lu\Documents\Portfolio\HeroesApp\HeroesBackend\HeroesBackend.Entities\obj\Debug\netcoreapp2.2\HeroesBackend.Entities.csprojAssemblyReference.cache
+C:\Users\Lu\Documents\Portfolio\HeroesApp\HeroesBackend\HeroesBackend.Entities\obj\Debug\netcoreapp2.2\HeroesBackend.Entities.AssemblyInfoInputs.cache
+C:\Users\Lu\Documents\Portfolio\HeroesApp\HeroesBackend\HeroesBackend.Entities\obj\Debug\netcoreapp2.2\HeroesBackend.Entities.AssemblyInfo.cs
+C:\Users\Lu\Documents\Portfolio\HeroesApp\HeroesBackend\HeroesBackend.Entities\obj\Debug\netcoreapp2.2\HeroesBackend.Entities.dll
+C:\Users\Lu\Documents\Portfolio\HeroesApp\HeroesBackend\HeroesBackend.Entities\obj\Debug\netcoreapp2.2\HeroesBackend.Entities.pdb

@@ -1,0 +1,16 @@
+<h1>Heroes de <small>Marvel y DC</small></h1>
+<hr>
+<div class="card-columns">
+  <app-hero-card (selectedHero)="seeHero($event)" [hero]="hero" *ngFor="let hero of paginatedHeroes;"></app-hero-card>
+</div>
+<nav aria-label="Page navigation example">
+  <ul class="pagination justify-content-center">
+    <li class="page-item" [ngClass]="{'disabled': pageNumber == 0}">
+      <a class="page-link" href="javascript:void(0)" tabindex="-1" aria-disabled="true" (click)="getPage(pageNumber - 1)">Anterior</a>
+    </li>
+    <li class="page-item" *ngFor="let page of pages" [ngClass]="{'active': pageNumber == page}"><a class="page-link" href="javascript:void(0)" (click)="getPage(page)">{{ page + 1 }}</a></li>
+    <li class="page-item" [ngClass]="{'disabled': pageNumber == pages.length - 1 }">
+      <a class="page-link" href="javascript:void(0)" (click)="getPage(pageNumber + 1)">Siguiente</a>
+    </li>
+  </ul>
+</nav>

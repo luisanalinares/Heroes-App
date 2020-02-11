@@ -1,0 +1,50 @@
+C:\Users\Lu\Documents\Portfolio\HeroesApp\HeroesBackend\HeroesBackend\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\Lu\Documents\Portfolio\HeroesApp\HeroesBackend\HeroesBackend\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\Lu\Documents\Portfolio\HeroesApp\HeroesBackend\HeroesBackend\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\Lu\Documents\Portfolio\HeroesApp\HeroesBackend\HeroesBackend\bin\Debug\netcoreapp2.2\HeroesBackend.deps.json
+C:\Users\Lu\Documents\Portfolio\HeroesApp\HeroesBackend\HeroesBackend\bin\Debug\netcoreapp2.2\HeroesBackend.runtimeconfig.json
+C:\Users\Lu\Documents\Portfolio\HeroesApp\HeroesBackend\HeroesBackend\bin\Debug\netcoreapp2.2\HeroesBackend.runtimeconfig.dev.json
+C:\Users\Lu\Documents\Portfolio\HeroesApp\HeroesBackend\HeroesBackend\bin\Debug\netcoreapp2.2\HeroesBackend.dll
+C:\Users\Lu\Documents\Portfolio\HeroesApp\HeroesBackend\HeroesBackend\bin\Debug\netcoreapp2.2\HeroesBackend.pdb
+C:\Users\Lu\Documents\Portfolio\HeroesApp\HeroesBackend\HeroesBackend\bin\Debug\netcoreapp2.2\HeroesBackend.BusinessLayer.dll
+C:\Users\Lu\Documents\Portfolio\HeroesApp\HeroesBackend\HeroesBackend\bin\Debug\netcoreapp2.2\HeroesBackend.Common.dll
+C:\Users\Lu\Documents\Portfolio\HeroesApp\HeroesBackend\HeroesBackend\bin\Debug\netcoreapp2.2\HeroesBackend.Entities.dll
+C:\Users\Lu\Documents\Portfolio\HeroesApp\HeroesBackend\HeroesBackend\bin\Debug\netcoreapp2.2\HeroesBackend.Repository.dll
+C:\Users\Lu\Documents\Portfolio\HeroesApp\HeroesBackend\HeroesBackend\bin\Debug\netcoreapp2.2\HeroesBackend.BusinessLayer.pdb
+C:\Users\Lu\Documents\Portfolio\HeroesApp\HeroesBackend\HeroesBackend\bin\Debug\netcoreapp2.2\HeroesBackend.Entities.pdb
+C:\Users\Lu\Documents\Portfolio\HeroesApp\HeroesBackend\HeroesBackend\bin\Debug\netcoreapp2.2\HeroesBackend.Common.pdb
+C:\Users\Lu\Documents\Portfolio\HeroesApp\HeroesBackend\HeroesBackend\bin\Debug\netcoreapp2.2\HeroesBackend.Repository.pdb
+C:\Users\Lu\Documents\Portfolio\HeroesApp\HeroesBackend\HeroesBackend\obj\Debug\netcoreapp2.2\HeroesBackend.csprojAssemblyReference.cache
+C:\Users\Lu\Documents\Portfolio\HeroesApp\HeroesBackend\HeroesBackend\obj\Debug\netcoreapp2.2\HeroesBackend.RazorAssemblyInfo.cache
+C:\Users\Lu\Documents\Portfolio\HeroesApp\HeroesBackend\HeroesBackend\obj\Debug\netcoreapp2.2\HeroesBackend.RazorAssemblyInfo.cs
+C:\Users\Lu\Documents\Portfolio\HeroesApp\HeroesBackend\HeroesBackend\obj\Debug\netcoreapp2.2\HeroesBackend.AssemblyInfoInputs.cache
+C:\Users\Lu\Documents\Portfolio\HeroesApp\HeroesBackend\HeroesBackend\obj\Debug\netcoreapp2.2\HeroesBackend.AssemblyInfo.cs
+C:\Users\Lu\Documents\Portfolio\HeroesApp\HeroesBackend\HeroesBackend\obj\Debug\netcoreapp2.2\HeroesBackend.RazorTargetAssemblyInfo.cache
+C:\Users\Lu\Documents\Portfolio\HeroesApp\HeroesBackend\HeroesBackend\obj\Debug\netcoreapp2.2\HeroesBackend.csproj.CopyComplete
+C:\Users\Lu\Documents\Portfolio\HeroesApp\HeroesBackend\HeroesBackend\obj\Debug\netcoreapp2.2\HeroesBackend.dll
+C:\Users\Lu\Documents\Portfolio\HeroesApp\HeroesBackend\HeroesBackend\obj\Debug\netcoreapp2.2\HeroesBackend.pdb
+C:\Users\Lu\Documents\Portafolio Git\HeroesApp\HeroesBackend\HeroesBackend\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\Lu\Documents\Portafolio Git\HeroesApp\HeroesBackend\HeroesBackend\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\Lu\Documents\Portafolio Git\HeroesApp\HeroesBackend\HeroesBackend\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\Lu\Documents\Portafolio Git\HeroesApp\HeroesBackend\HeroesBackend\bin\Debug\netcoreapp2.2\HeroesBackend.deps.json
+C:\Users\Lu\Documents\Portafolio Git\HeroesApp\HeroesBackend\HeroesBackend\bin\Debug\netcoreapp2.2\HeroesBackend.runtimeconfig.json
+C:\Users\Lu\Documents\Portafolio Git\HeroesApp\HeroesBackend\HeroesBackend\bin\Debug\netcoreapp2.2\HeroesBackend.runtimeconfig.dev.json
+C:\Users\Lu\Documents\Portafolio Git\HeroesApp\HeroesBackend\HeroesBackend\bin\Debug\netcoreapp2.2\HeroesBackend.dll
+C:\Users\Lu\Documents\Portafolio Git\HeroesApp\HeroesBackend\HeroesBackend\bin\Debug\netcoreapp2.2\HeroesBackend.pdb
+C:\Users\Lu\Documents\Portafolio Git\HeroesApp\HeroesBackend\HeroesBackend\bin\Debug\netcoreapp2.2\HeroesBackend.BusinessLayer.dll
+C:\Users\Lu\Documents\Portafolio Git\HeroesApp\HeroesBackend\HeroesBackend\bin\Debug\netcoreapp2.2\HeroesBackend.Common.dll
+C:\Users\Lu\Documents\Portafolio Git\HeroesApp\HeroesBackend\HeroesBackend\bin\Debug\netcoreapp2.2\HeroesBackend.Entities.dll
+C:\Users\Lu\Documents\Portafolio Git\HeroesApp\HeroesBackend\HeroesBackend\bin\Debug\netcoreapp2.2\HeroesBackend.Repository.dll
+C:\Users\Lu\Documents\Portafolio Git\HeroesApp\HeroesBackend\HeroesBackend\bin\Debug\netcoreapp2.2\HeroesBackend.BusinessLayer.pdb
+C:\Users\Lu\Documents\Portafolio Git\HeroesApp\HeroesBackend\HeroesBackend\bin\Debug\netcoreapp2.2\HeroesBackend.Entities.pdb
+C:\Users\Lu\Documents\Portafolio Git\HeroesApp\HeroesBackend\HeroesBackend\bin\Debug\netcoreapp2.2\HeroesBackend.Common.pdb
+C:\Users\Lu\Documents\Portafolio Git\HeroesApp\HeroesBackend\HeroesBackend\bin\Debug\netcoreapp2.2\HeroesBackend.Repository.pdb
+C:\Users\Lu\Documents\Portafolio Git\HeroesApp\HeroesBackend\HeroesBackend\obj\Debug\netcoreapp2.2\HeroesBackend.csprojAssemblyReference.cache
+C:\Users\Lu\Documents\Portafolio Git\HeroesApp\HeroesBackend\HeroesBackend\obj\Debug\netcoreapp2.2\HeroesBackend.RazorAssemblyInfo.cache
+C:\Users\Lu\Documents\Portafolio Git\HeroesApp\HeroesBackend\HeroesBackend\obj\Debug\netcoreapp2.2\HeroesBackend.RazorAssemblyInfo.cs
+C:\Users\Lu\Documents\Portafolio Git\HeroesApp\HeroesBackend\HeroesBackend\obj\Debug\netcoreapp2.2\HeroesBackend.AssemblyInfoInputs.cache
+C:\Users\Lu\Documents\Portafolio Git\HeroesApp\HeroesBackend\HeroesBackend\obj\Debug\netcoreapp2.2\HeroesBackend.AssemblyInfo.cs
+C:\Users\Lu\Documents\Portafolio Git\HeroesApp\HeroesBackend\HeroesBackend\obj\Debug\netcoreapp2.2\HeroesBackend.RazorTargetAssemblyInfo.cache
+C:\Users\Lu\Documents\Portafolio Git\HeroesApp\HeroesBackend\HeroesBackend\obj\Debug\netcoreapp2.2\HeroesBackend.csproj.CopyComplete
+C:\Users\Lu\Documents\Portafolio Git\HeroesApp\HeroesBackend\HeroesBackend\obj\Debug\netcoreapp2.2\HeroesBackend.dll
+C:\Users\Lu\Documents\Portafolio Git\HeroesApp\HeroesBackend\HeroesBackend\obj\Debug\netcoreapp2.2\HeroesBackend.pdb
